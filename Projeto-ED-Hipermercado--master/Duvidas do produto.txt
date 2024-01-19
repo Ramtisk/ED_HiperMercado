@@ -1,0 +1,20 @@
+Esclarecimentos:
+
+Referente ao ficheiro de produtos:
+ - As colunas são: CODIGO; NOME; PRECO; TCOMPRA; TCAIXA
+     PRECO: Será o preço do produto;
+     TCOMPRA: O tempo que o consumidor leva na procura e colocar o produto no cesto, em segundos;
+     TCAIXA: O tempo de passar o produto na caixa, em segundos;
+
+Exemplo:
+CODIGO		NOME						PRECO	TCOMPRA	TCAIXA
+10001	Azeitona Verde Retalhada com Ervas [marcaB] 300 gr	3.00	12.0	3.2
+10002	Croutons Pão Tostado [marcaB] 150 gr			1.69	6.2	2.3
+.......
+
+Observações:
+- Quando um cliente chega à loja (Algo que devem simular!), deve ser gerado aleatoriamente o nº N de produtos que compra e gerar estes N produtos;
+- Estes produtos definem quando vai gastar e o tempo que o cliente passa na loja até ir para a fila de uma caixa (soma dos tempos de compra dos N produtos);
+- Depois deve esperar na fila (o tempo é definido pelos clientes que estão antes dele na mesma caixa) e depois na "vez" dele pagar,  o tempo é definido pela soma dos tempos de passar o produto na caixa dos N produtos;
+- Após isto, o cliente vai à sua vidinha, "abandonando" a loja e com a experiência adquirida vai programar em C a solução!!!!
+

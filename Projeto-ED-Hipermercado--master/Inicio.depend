@@ -1,0 +1,331 @@
+# depslib dependency file v1.0
+1685578327 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\caixas.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\clientes.h
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\uteis.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<unistd.h>
+	<windows.h>
+	<malloc.h>
+	<ctype.h>
+	<locale.h>
+	<math.h>
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"fila.h"
+	"calculos.h"
+	"supermercado.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\caixas.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685578252 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\produtos.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\funcionarios.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685567335 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\simulacao.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685567335 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\text.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685560715 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\calculos.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685575026 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\supermercado.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685560546 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\fila.h
+	"uteis.h"
+	"clientes.h"
+
+1685571760 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\calculos.c
+	"calculos.h"
+
+1685576825 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\clientes.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685560432 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\fila.c
+	"fila.h"
+
+1685578160 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\funcionarios.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685579611 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\main.c
+	"clientes.h"
+	"caixas.h"
+	"funcionarios.h"
+	"produtos.h"
+	"supermercado.h"
+	"text.h"
+	"simulacao.h"
+	"calculos.h"
+	"uteis.h"
+
+1685578878 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\produtos.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685575379 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\simulacao.c
+	"simulacao.h"
+
+1685578878 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\supermercado.c
+	"supermercado.h"
+
+1685581898 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\text.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685581976 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837_\uteis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"uteis.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\caixas.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\clientes.h
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\uteis.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<unistd.h>
+	<windows.h>
+	<malloc.h>
+	<ctype.h>
+	<locale.h>
+	<math.h>
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"fila.h"
+	"calculos.h"
+	"supermercado.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\caixas.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685578252 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\produtos.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685583170 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\funcionarios.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685567335 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\simulacao.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685567335 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\text.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685560715 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\calculos.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685575026 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\supermercado.h
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"text.h"
+	"calculos.h"
+	"supermercado.h"
+	"uteis.h"
+
+1685560546 c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\fila.h
+	"uteis.h"
+	"clientes.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\clientes.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\fila.c
+	"fila.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\funcionarios.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\produtos.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\supermercado.c
+	"supermercado.h"
+
+1685583170 source:c:\users\rafael severino\desktop\projed_23906_22681_25216_17837\text.c
+	"clientes.h"
+	"caixas.h"
+	"produtos.h"
+	"funcionarios.h"
+	"simulacao.h"
+	"uteis.h"
+

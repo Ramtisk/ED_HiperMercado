@@ -1,0 +1,10 @@
+- alterar o relogio principal do sistema para o relogio fornecido pelo professor
+- somar tempos (milissegundos, converter)
+- tempos de entrada, caixa, saida
+- simular entrada do funcionario para a caixa
+- simular saida do cliente
+- somar os tempos de todos na fila (tempo atremdimento)
+- registo em csv das opcoes que foram selicionadas no menu
+- registo em csv tudo o que é feito
+
+relatorio
